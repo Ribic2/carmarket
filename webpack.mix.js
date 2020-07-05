@@ -7,6 +7,8 @@ var webpackConfig = {
         new VuetifyLoaderPlugin()
     ]
 }
+
+mix.webpackConfig( webpackConfig )
 /*
  |--------------------------------------------------------------------------
  | Mix Asset Management
