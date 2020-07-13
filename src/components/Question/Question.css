@@ -1,0 +1,26 @@
+.question {
+    height: 80vh;
+    padding-top: 10vh;
+    width: 100%;
+    background-color: #F4F6FF;;
+}
+
+.card {
+    color: rgba(0, 0, 0, 0.87);
+    background-color: rgba(79, 138, 139, 0.3);
+    width: 80vw;
+    margin: auto;
+    padding: 16px;
+    font-size: 1.3rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 575px){
+    .questionText{
+        position: relative;
+        top: 15px !important;
+        width: 95vw !important;
+        font-size: 15px;
+    }
+}

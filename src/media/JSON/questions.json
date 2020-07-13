@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Ali ste zadovoljni s spletno platformo, ki jo uporabljate?",
+        "type": "yes/no"
+    },
+    {
+        "question": "Kako pogosto obiščete spletno stran, ki jo uporabljate za nakup/prodajo vozil?",
+        "type": "multiple",
+        "anwsers": [
+            {"label": "Nekajkrat na dan", "id": "anwser1"},
+            {"label": "Nekajkrat na teden", "id": "anwser2"},
+            {"label": "Nekajkrat na mesec", "id": "anwser3"},
+            {"label": "Nekajkrat na leto", "id": "anwser4"},
+            {"label": "Manj pogosto", "id": "anwser5"}
+        ]
+    }
+]
