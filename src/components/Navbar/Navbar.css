@@ -1,0 +1,9 @@
+.navbar {
+    line-height: 10vh;
+    color: rgb(244, 246, 255);
+    background-color: rgb(79, 138, 139);
+    font-family: "Poppins", "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}

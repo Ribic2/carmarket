@@ -1,0 +1,26 @@
+.anwser {
+    width: 80vw;
+    margin: auto;
+    padding: 15px;
+    display: flex;
+    align-content: center;
+    height: 20px;
+    line-height: 25px;
+    font-size: 1.2em;
+}
+
+.squareRadio {
+    border: 2px solid rgb(87, 86, 86);
+    padding: 0.5em;
+    -webkit-appearance: none;
+}
+  
+.squareRadio:checked {
+    background-color: rgba(48, 224, 16, 0.856);
+    background-size: 9px 9px;
+    border: 2px solid rgba(31, 114, 16, 0.753);
+}
+
+.squareRadio:focus {
+    outline: none;
+}
